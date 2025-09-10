@@ -1,0 +1,1 @@
+Code for "(Un)biased data, spin glass model, and clustering for Turing phase transitions within human-transformer interactions" by Jackson George, Zachariah Yusaf, Stephanie Zoltick, Linh Huynh. All authors contributed equally to this work, with J.G., Z.Y., S.Z. being undergraduate students and co-first authors, and L.H. being the research mentor and senior author.
