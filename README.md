@@ -4,7 +4,7 @@ Contribution Statement:
 
 Linh Huynh designed and supervised the project. All authors collected data.
 
-Code and Figure Results in the September 10, 2025 Draft (Version 2):
+********** Code and Figure Results in the September 10, 2025 Draft (Version 2):
 
 Stephanie Zoltick: Figure 1(A) and (B) — but Linh Huynh added the bias quantification idea in Version 2 (it wasn't there in Version 1), Figure 2(A) and (B)
 
@@ -14,7 +14,7 @@ Linh Huynh: Figure 3 and Figure 5
 
 Zach Yusaf: helped revise the aesthetics of Stephanie's figures, also tried to reproduce the results in another paper but we didn't include that in our paper.
 
-Writing:
+********** Writing:
 
 Version 1 (May 4, 2025):
 
